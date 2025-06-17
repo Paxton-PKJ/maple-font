@@ -1,5 +1,4 @@
 {
-  "$schema": "./source/schema.json",
   "family_name": "Maple Mono",
   "use_hinted": true,
   "pool_size": 4,
@@ -49,7 +48,7 @@
   "nerd_font": {
     "enable": true,
     "version": "3.4.0",
-    "mono": false,
+    "mono": true,
     "use_font_patcher": false,
     "glyphs": [
       "--complete"
@@ -62,7 +61,7 @@
     "fix_meta_table": true,
     "clean_cache": false,
     "narrow": true,
-    "use_hinted": true,
+    "use_hinted": false,
     "use_static_base_font": true,
     "scale_factor": 1.0
   }
