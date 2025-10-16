@@ -13,7 +13,7 @@
         "medium": 600,
         "bold": 700,
         "extrabold": 800
-    }，
+    },
     "line_height": 1.0,
     "feature_freeze": {
         "cv01": "ignore",
@@ -62,7 +62,7 @@
         "ss10": "enable",
         "ss11": "enable",
         "zero": "ignore"
-    }，
+    },
     "nerd_font": {
         "enable": true,
         "version": "3.4.0",
